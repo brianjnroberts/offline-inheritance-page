@@ -1,0 +1,13 @@
+<widget id="OfflinePage.widget.OfflinePage" needsEntityContext="true" 
+    xmlns="http://www.mendix.com/widget/1.0/" offlineCapable="true">
+    <name>Offline Page</name>
+    <description>Dummy widget</description>
+    <icon/>
+    <properties>
+        <property key="form" type="form" required="true">
+            <caption>Page</caption>
+            <category>General</category>
+            <description>The page to show</description>
+        </property>
+    </properties>
+</widget>
